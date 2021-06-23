@@ -1,4 +1,4 @@
 six
-python-docx
+bayoo-docx
 jinja2
 lxml
